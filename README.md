@@ -1,1 +1,1 @@
-# my-first-neural-network
+# My-First-Neural-Network
